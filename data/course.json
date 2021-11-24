@@ -1,0 +1,46 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Humanities",
+      "Language",
+      "French"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "24f3f1d7-fd77-e510-c075-eb7bcc57e2ba"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "New Culture of Gender: Queer France",
+  "course_description": "This course addresses the place of contemporary queer identities in French discourse and discusses the new generation of queer authors and their principal concerns. Class discussions and readings will introduce students to the main classical references of queer subcultures, from Proust and Vivien to Hocquenghem and Wittig. Throughout the course, students will examines current debates on post-colonial and globalized queer identities through essays, songs, movies, and novels. Authors covered include Didier Eribon, Anne Garr\u00e9ta, Abdellah Ta\u00efa, Anne Scott, and Nina Bouraoui. This class is taught in French.\n",
+  "department_numbers": [
+    "21G",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.233J",
+  "primary_course_number": "21G.325J",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
